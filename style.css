@@ -1,0 +1,12 @@
+ html , body {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.loopt {
+  position: relative;
+  left: 300px;
+  
+}
