@@ -1,0 +1,13 @@
+.c-item {
+  height: 525px;
+}
+
+.c-img {
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.3);
+}
+.dept {
+  position: relative;
+  top: 100px;
+}
