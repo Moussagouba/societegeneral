@@ -16,3 +16,16 @@ body {
   left: 00px;
   bottom: 10px;
 }
+@media screen and (max-width: 1000px) {
+  .menu {
+    display: none;
+  }
+
+  .loopt {
+    display: block;
+  }
+
+  .subHeader {
+    padding: 5px;
+  }
+}
